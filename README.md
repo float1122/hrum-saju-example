@@ -1,5 +1,7 @@
 # hrum-saju-example
 
+> 터미널에서 curl·Node·Python으로 기본 호출만 해 보는 예제는 [hrum-manseryeok-example](https://github.com/float1122/hrum-manseryeok-example)에 있어요.
+
 흐름(HRUM) 만세력 API로 사주 원국을 받아 보는 아주 작은 예제예요. 설치할 패키지가 없어요. Node에 들어 있는 `http`·`crypto`·`fetch`만 써요.
 
 - `first-call.mjs` — 터미널에서 만세력을 한 번 불러 네 기둥을 출력해요
