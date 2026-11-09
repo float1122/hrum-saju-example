@@ -1,0 +1,13 @@
+{
+  "name": "hrum-saju-example",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal manseryeok example using the HRUM API (no dependencies)",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20.6" },
+  "scripts": {
+    "first-call": "node --env-file=.env first-call.mjs",
+    "start": "node --env-file=.env server.mjs"
+  }
+}
